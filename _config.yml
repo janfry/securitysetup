@@ -1,0 +1,29 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      rouge
+
+gems:
+  - jekyll-redirect-from
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            The Security Setup
+tagline:          'What setup do folks in security use to attack, defend, build, hack, crack, secure etc'
+description:      ''
+url:              http://thesecuritysetup.com
+baseurl:          /
+form:             '<a href="https://docs.google.com/forms/d/1_9R4iVMi9dwcaw6Fb_bEcRDOcFBCI-MKCCOuidUCH0k/viewform?usp=send_form" target="_blank">here</a>'
+
+author:
+  name:           ''
+  url:            https://twitter.com/securitysetup
+
+paginate:         5
+
+# Custom vars
+version:          0.1.0
+
+github:
+  repo:           https://github.com/janfry/thesecuritysetup
