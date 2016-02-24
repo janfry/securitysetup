@@ -14,7 +14,7 @@ tagline:          'What setup do folks in security use to attack, defend, build,
 description:      ''
 url:              http://thesecuritysetup.com
 baseurl:          /
-form:             '<a href="https://docs.google.com/forms/d/1_9R4iVMi9dwcaw6Fb_bEcRDOcFBCI-MKCCOuidUCH0k/viewform?usp=send_form" target="_blank">here</a>'
+form:             '<a href="https://github.com/janfry/securitysetup/issues">here</a>'
 
 author:
   name:           ''
